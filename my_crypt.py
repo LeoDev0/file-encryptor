@@ -1,5 +1,6 @@
-# 1- APRENDER A USAR O SELF PARA CRIAR MAIS FUNÇÕES E DIMINUIR O CÓDIGO
-# 2- IMPLEMENTAR A DESENCRIPTAÇÃO VIA KEYFILE
+# 1- Refatorar o código usando orientação a objetos para diminuir as repetições
+# 2- Implementar a desencriptação via keyfile
+# 3- Implementar encriptação recursiva (criptografar arquivos dentro das pastas da pasta principal) pastas) 
 
 from cryptography.fernet import Fernet
 import base64
